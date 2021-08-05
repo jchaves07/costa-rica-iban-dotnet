@@ -1,0 +1,12 @@
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/bin/Debug/net5.0/bankCollection.json
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/bin/Debug/net5.0/costa-rica-dotnet.deps.json
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/bin/Debug/net5.0/costa-rica-dotnet.dll
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/bin/Debug/net5.0/ref/costa-rica-dotnet.dll
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/bin/Debug/net5.0/costa-rica-dotnet.pdb
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/obj/Debug/net5.0/costa-rica-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/obj/Debug/net5.0/costa-rica-dotnet.AssemblyInfoInputs.cache
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/obj/Debug/net5.0/costa-rica-dotnet.AssemblyInfo.cs
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/obj/Debug/net5.0/costa-rica-dotnet.csproj.CoreCompileInputs.cache
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/obj/Debug/net5.0/costa-rica-dotnet.dll
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/obj/Debug/net5.0/ref/costa-rica-dotnet.dll
+/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/obj/Debug/net5.0/costa-rica-dotnet.pdb

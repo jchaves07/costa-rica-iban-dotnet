@@ -7,7 +7,7 @@
   },
   {
     "code": "102",
-    "entity": "BAC San José S.A.",
+    "entity": "BAC San Jose S.A.",
     "participation": "asociada",
     "representative": ""
   },
@@ -31,7 +31,7 @@
   },
   {
     "code": "116",
-    "entity": "Banca Promérica S.A.",
+    "entity": "Banca Promerica S.A.",
     "participation": "asociada",
     "representative": ""
   },
@@ -79,7 +79,7 @@
   },
   {
     "code": "153",
-    "entity": "Banco Crédito Agrícola de Cartago",
+    "entity": "Banco Cr?dito Agr?cola de Cartago",
     "participation": "asociada",
     "representative": ""
   },
@@ -229,7 +229,7 @@
   },
   {
     "code": "581",
-    "entity": "BAC San José",
+    "entity": "BAC San Jose",
     "participation": "asociada",
     "representative": ""
   },
@@ -277,7 +277,7 @@
   },
   {
     "code": "655",
-    "entity": "Bac San José Operadora de Pensiones Complementarias",
+    "entity": "Bac San Jos? Operadora de Pensiones Complementarias",
     "participation": "asociada",
     "representative": ""
   },
@@ -301,7 +301,7 @@
   },
   {
     "code": "730",
-    "entity": "Instituto de Fomento y Asesoría Municipal (IFAM)",
+    "entity": "Instituto de Fomento y Asesor?a Municipal (IFAM)",
     "participation": "asociada",
     "representative": ""
   },
@@ -355,19 +355,19 @@
   },
   {
     "code": "754",
-    "entity": "Junta de Protección Social de San José",
+    "entity": "Junta de Protecci?n Social de San Jose",
     "participation": "asociada",
     "representative": ""
   },
   {
     "code": "755",
-    "entity": "Municipalidad de San José",
+    "entity": "Municipalidad de San Jose",
     "participation": "asociada",
     "representative": ""
   },
   {
     "code": "756",
-    "entity": "Radiográfica Costarricense S.A. (RACSA)",
+    "entity": "Radiogr?fica Costarricense S.A. (RACSA)",
     "participation": "asociada",
     "representative": ""
   },
@@ -385,13 +385,13 @@
   },
   {
     "code": "804",
-    "entity": "Mutual Cartago de Ahorro y Préstamo",
+    "entity": "Mutual Cartago de Ahorro y Pr?stamo",
     "participation": "asociada",
     "representative": ""
   },
   {
     "code": "811",
-    "entity": "Cooperativa de Ahorro y Crédito de la Comunidad de Ciudad Quesada R. L. (COOCIQUE)",
+    "entity": "Cooperativa de Ahorro y Credito de la Comunidad de Ciudad Quesada R. L. (COOCIQUE)",
     "participation": "asociada",
     "representative": ""
   },
@@ -403,7 +403,7 @@
   },
   {
     "code": "813",
-    "entity": "Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón (COOPEALIANZA)",
+    "entity": "Cooperativa de Ahorro y Cr?dito Alianza de P?rez Zeled?n (COOPEALIANZA)",
     "participation": "asociada",
     "representative": ""
   },
@@ -421,13 +421,13 @@
   },
   {
     "code": "816",
-    "entity": "Cooperativa de Ahorro y Crédito de Servidores Públicos R.L. (COOPESERVIDORES)",
+    "entity": "Cooperativa de Ahorro y Cr?dito de Servidores P?blicos R.L. (COOPESERVIDORES)",
     "participation": "asociada",
     "representative": ""
   },
   {
     "code": "817",
-    "entity": "Cooperativa de Ahorro y Crédito ANDE Nº 1 R.L. (COOPEANDE).",
+    "entity": "Cooperativa de Ahorro y Cr?dito ANDE N? 1 R.L. (COOPEANDE).",
     "participation": "asociada",
     "representative": ""
   },
@@ -439,7 +439,7 @@
   },
   {
     "code": "821",
-    "entity": "Caja de Ahorro y Préstamos de ANDE",
+    "entity": "Caja de Ahorro y Pr?stamos de ANDE",
     "participation": "asociada",
     "representative": ""
   },
@@ -513,7 +513,7 @@
     "code": "837",
     "entity": "Credomatic",
     "participation": "representada",
-    "representative": "BAC San José"
+    "representative": "BAC San Jose"
   },
   {
     "code": "838",

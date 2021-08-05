@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{310DC1F0-4E20-4A57-8A38-9DEADAA63956}|Default">
+  <MonoDevelop.Ide.ItemProperties.test-Libreary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test-Libreary/Program.cs">
+    <Files>
+      <File FileName="Models/bankCollection.json" Line="34" Column="27" />
+      <File FileName="Models/IBANOperator.cs" Line="3" Column="30" />
+      <File FileName="Class1.cs" Line="31" Column="1" />
+      <File FileName="obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" Line="4" Column="1" />
+      <File FileName="test-Libreary/Program.cs" Line="10" Column="94" />
+      <File FileName="test-Libreary/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="costa-rica-dotnet" expanded="True">
+            <Node name="costa-rica-dotnet" expanded="True" selected="True">
+              <Node name="Models" expanded="True" />
+              <Node name="test-Libreary" expanded="True">
+                <Node name="obj" expanded="True">
+                  <Node name="Debug" expanded="True">
+                    <Node name="net5.0" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+            <Node name="test-Libreary" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/Test-costa-rica-IBAN/Program.cs" relfile="Test-costa-rica-IBAN/Program.cs" line="9" column="1" />
+      <Breakpoint file="/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/IBANUtils.cs" relfile="IBANUtils.cs" line="31" column="1" />
+      <Breakpoint file="/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/test-Libreary/Program.cs" relfile="test-Libreary/Program.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

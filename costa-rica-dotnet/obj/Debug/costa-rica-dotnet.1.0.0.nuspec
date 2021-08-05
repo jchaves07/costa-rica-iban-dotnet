@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>costa-rica-dotnet</id>
+    <version>1.0.0</version>
+    <authors>costa-rica-dotnet</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/bin/Debug/net5.0/costa-rica-dotnet.dll" target="lib/net5.0/costa-rica-dotnet.dll" />
+  </files>
+</package>

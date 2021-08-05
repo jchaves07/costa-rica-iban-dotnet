@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9U/j0YunwdFF1ePFIA6504lrTYgP3xuv2pq5nRo8PyJRvRHgYGMYyX5zwfmYhE7j+zdeuHGb1ZEYyPNfbZzl/w==",
+  "success": true,
+  "projectFilePath": "/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/Test-costa-rica-IBAN/Test-costa-rica-IBAN.csproj",
+  "expectedPackageFiles": [
+    "/Users/jchaves047/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

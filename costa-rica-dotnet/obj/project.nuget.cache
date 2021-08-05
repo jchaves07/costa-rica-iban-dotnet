@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wJe6L+h2QiIojRJUYa9G1X/J8WKMMEDYJEEjOWDctObNzq1l6ubdTIUvTFJEZOLnQdIoG1r8h+8NsUBwMudxgg==",
+  "dgSpecHash": "MBAPMvbGvul9QqCPacJu4SsE9PpOI0AVveTHFSxsJXvM2yJyIlCTtrtnRx8bDrC7GcBPqhx/tWTqstZjgmxU7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JorgeEduardoChavesUl\\source\\repos3\\costa-rica-iban-dotnet\\costa-rica-dotnet\\costa-rica-dotnet.csproj",
+  "projectFilePath": "/Users/jchaves047/github/costa-rica-iban-dotnet/costa-rica-dotnet/costa-rica-dotnet.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\JorgeEduardoChavesUl\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "/Users/jchaves047/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
